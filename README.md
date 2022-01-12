@@ -5,14 +5,16 @@
 ![image](https://github.com/gsp40213/PuchCard_Unity2019/blob/main/Assets/Image/ProjectSetting/ProjectSetting.png)
 
 3. 發佈後執行結果與Unity 環境下操作結果不同，請匯入以下Dll 檔案
-    1. I18N.CJK.dll
-    2. I18N.CJK.dll
-    3. I18N.Other.dll
-    4. I18N.Rare.dll
-    5. I18N.West.dll
-    6. I18N.dll
-
+        
+        I18N.CJK.dll    
+        I18N.CJK.dll    
+        I18N.Other.dll    
+        I18N.Rare.dll   
+        I18N.West.dll    
+        I18N.dll   
+    
 3.1 檔案路徑為 Unity 安裝路徑:
+    
     例如: C:\Program Files\Unity 2019.4.34f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit
 
 3.2 專案匯入出現 System.Drawing.dll 錯誤，表示與當下Unity版本不符合，請至3.1 步驟。
