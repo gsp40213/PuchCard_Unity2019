@@ -43,8 +43,8 @@ https://www.mol.gov.tw/1607/28162/28166/28218/28226/30382/
 --------------------------------
 ![image](https://github.com/gsp40213/PuchCard_Unity2019/blob/main/Assets/Image/ResultGraph/ResultGraph%20.png)
 
-影片測試 (Unity 2018 版本):
+影片測試 (Unity 2019 LTS 版本):
 --------------------------------
-https://www.youtube.com/watch?v=y7pX6rkA0WA
+https://www.youtube.com/watch?v=ZQUQe4v4xjs
 
 
