@@ -36,6 +36,7 @@ public abstract class ExcelClass
             this.year = year;
             this.month = month;
             this.staffNumber = staffNumber;
+            this.operAtingHours = operAtingHours;
 
             this.companyName = companyName;
             this.unit = unit;
